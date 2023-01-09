@@ -1,4 +1,4 @@
-### Hi there 👋
+### Namaste, I'm Sujeet Gupta 👏
 
 <!--
 **sujeet9682/sujeet9682** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

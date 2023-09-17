@@ -1,10 +1,10 @@
-### Hi there 👋
+
 # Hey there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width=100> I'm [Sujeet Kumar]
 ### A passionate Programmer
 <img src="https://komarev.com/ghpvc/?username=sujeet9682&label=Profile%20views&color=0e75b6&style=flat" alt="sujeet9682" />
 
 
-## I am a Student and just a student.....
+## I am a Student 
 - 🌱 I’m currently learning to get some space in tech :)
 - ⚡ I just want to write more code
 

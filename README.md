@@ -12,7 +12,7 @@
 <br/>
 
 <a href="https://github.com/sujeet9682">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sujeet9682&include_all_commits=true&count_private=true&show_icons=true&theme=default&line_height=27" alt="Ankit's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sujeet9682&include_all_commits=true&count_private=true&show_icons=true&theme=default&line_height=27" alt="Sujeet's github stats"/>
 </a>
 <a href="https://github.com/sujeet9682">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeet9682&theme=default&layout=compact&langs_count=10&hide_langs_below=1" />

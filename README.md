@@ -4,8 +4,8 @@
 <img src="https://komarev.com/ghpvc/?username=sujeet9682&label=Profile%20views&color=0e75b6&style=flat" alt="sujeet9682" />
 
 
-## I am a Student 
-- 🌱 I’m currently learning to get some space in tech :)
+## A Student 
+- 🌱 I’m currently learning to get some space in tech field:)
 - ⚡ I just want to write more code
 
 

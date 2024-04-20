@@ -6,7 +6,7 @@
 
 ## A Student 
 - 🌱 I’m currently learning to get some space in tech field:)
-- ⚡ I just want to write more code
+- ⚡ Just want to write more code
 
 
 <br/>

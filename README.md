@@ -18,9 +18,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeet9682&theme=default&layout=compact&langs_count=10&hide_langs_below=1" />
 </a>
 
+# 💻 HacktoberFest:
+[![An image of @sujeet9682's Holopin badges, which is a link to view their full Holopin profile](holopin.io/@sujeet9682)](holopin.io/@sujeet9682)
+
 [![GitHub Streak align="center"](https://streak-stats.demolab.com/?user=sujeet9682&theme=default)](https://git.io/streak-stats)
 
-
+<p align="center">
+  <img  src="https://github.com/sujeet9682/sujeet9682/blob/output/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 
 <!--
 **sujeet9682/sujeet9682** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

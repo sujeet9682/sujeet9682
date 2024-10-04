@@ -23,8 +23,6 @@
 
 [![GitHub Streak align="center"](https://streak-stats.demolab.com/?user=sujeet9682&theme=default)](https://git.io/streak-stats)
 
-[![snake animation](https://github.com/sujeet9683/sujeet9682/blob/output/github-contribution-grid-snake2.svg)]
-
 <!--
 **sujeet9682/sujeet9682** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

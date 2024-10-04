@@ -19,7 +19,7 @@
 </a>
 
 # 💻 HacktoberFest:
-[![An image of @sujeet9682's Holopin badges, which is a link to view their full Holopin profile](holopin.io/@sujeet9682)](holopin.io/@sujeet9682)
+[![An image of @sujeet9682's Holopin badges, which is a link to view their full Holopin profile](https://holopin.io/@sujeet9682)](https://holopin.io/@sujeet9682)
 
 [![GitHub Streak align="center"](https://streak-stats.demolab.com/?user=sujeet9682&theme=default)](https://git.io/streak-stats)
 

@@ -15,11 +15,18 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sujeet9682&include_all_commits=true&count_private=true&show_icons=true&theme=default&line_height=27" alt="Sujeet's github stats"/>
 </a>
 <a href="https://github.com/sujeet9682">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeet9682&theme=default&layout=compact&langs_count=10&hide_langs_below=1" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeet9682&theme=default&layout=compact&langs_count=10&hide_langs_below=1" />
 </a>
 
 # 💻 HacktoberFest:
 [![An image of @sujeet9682's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sujeet9682)](https://holopin.io/@sujeet9682)
+
+## GSSOC(24) Badges 🪶
+<div style='display:flex; gap: 10px;' ><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+ 
+</div>
+
 
 [![GitHub Streak align="center"](https://streak-stats.demolab.com/?user=sujeet9682&theme=default)](https://git.io/streak-stats)
 
@@ -37,3 +44,5 @@
 -->
 
 ![](https://leetcard.jacoblin.cool/sujitg0124?ext=heatmap)
+
+

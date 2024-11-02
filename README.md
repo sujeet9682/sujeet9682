@@ -11,7 +11,7 @@
 - I’m currently learning **Java, Data Structure and Algorithms and Frontend Development.** 
 - 💬 Ask me about **Java and Data Structures.**
 - 📫 How to reach me **sujitg0124@gmail.com**
-- https://hey-sujeet.netlify.app/
+- ⛓️‍💥 **https://hey-sujeet.netlify.app/**
 - ⚡ **Would love to explore new things.** 
 <h3 align="left">Connect with me: </h3>
 <p align="left">

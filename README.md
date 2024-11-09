@@ -39,7 +39,7 @@
 
 
 # 💻 HacktoberFest:
-[![An image of @sujeet9682's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sujeet9682)](https://holopin.io/@sujeet9682)
+[![An image of @sujeet9682's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sujeet9682)](https://www.holopin.io/@sujeet9682#badges)
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">

@@ -2,7 +2,7 @@
 
 <h3 >First,Take a look https://sujeet-hash.hashnode.dev/my-journey-to-learning-git-and-github <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="45">  
 <h1 align="center"> Hello! I'm <a href="https://www.linkedin.com/in/sujeet-id/">Sujeet</a>
-<h3 align="center">I am a passionate Java And Web developer <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" height="20">
+<h3 align="center">I am a passionate Java developer <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" height="20">
 </h3>
 
 
